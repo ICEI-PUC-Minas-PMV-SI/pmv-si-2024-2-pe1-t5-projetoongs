@@ -24,9 +24,13 @@ Além disso, a crescente demanda por transparência não é atendida por muitas 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O objetivo central do presente trabalho é o desenvolvimento de uma plataforma web que solucione os problemas apresentados anteriormente, proporcionando a oportunidade de aumentar a eficiência operacional de nosso público alvo, através da ciência de dados e comunicação assertiva.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Para isso, pontuamos:
+A implementação de técnicas de análise de dados para o mapeamento de perfis das instituições e de doadores, identificando padrões e tendências;
+O desenvolvimento de funcionalidades que facilitem a comunicação transparente entre as ONGs e os doadores, promovendo a confiança e o engajamento.;
+A melhora na gestão empresarial das organizações por meio de ferramentas que aumentem a eficiência nas operações e no uso dos recursos;
+O aumento da probabilidade de doações por intermédio do crescimento da visibilidade midiática.
 
 > **Links Úteis**:
 >
