@@ -1,26 +1,39 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+[Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.]
+
+As Organizações Não Governamentais (ONGs) têm desempenhado um papel vital na resolução de problemas sociais, ambientais e humanitários em todo o mundo. No entanto, muitas dessas organizações enfrentam desafios significativos dado o cenário de seu surgimento na década de 50 até os dias de hoje com constantes mudanças sociais e sistêmicas. Com o passar dos anos, essas mudanças fizeram com que fosse exigido delas, além da capacidade política e de mobilização, competência de gestão para elaboração de projetos, captação de recursos e, sobretudo, para o gerenciamento das ações e a organização dos resultados para apresentá-los e comprová-los junto aos financiadores.
+
+No entanto, muitas dessas organizações enfrentam desafios significativos nesses âmbitos por encontrarem dificuldades ao se comunicar de forma assertiva com seu público, comunicando seus objetivos, valores e projetos com transparência. Além disso, a falta de profissionalização técnica com foco em gestão de qualidade,
+
+Diante desses desafios, este trabalho propõe o desenvolvimento de uma plataforma web integrada que não apenas otimiza a gestão por meio da análise de dados, mas também fortalece a transparência e a credibilidade das ONGs, ajudando-as a comunicar de forma clara e impactante seus propósitos, atividades e resultados. A plataforma será projetada para proporcionar às ONGs um gerenciamento mais eficiente de suas operações, estabelecendo uma relação de confiança duradoura com seus doadores e a sociedade.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Enquanto discutiamos acerca dos pontos que envolvem este projeto, definimos como problemas centrais a ineficiência na gestão administrativa [captação de recursos] e a falta de transparência nas operações das ONGs, fatores que prejudicam a sustentabilidade financeira e a credibilidade dessas organizações.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Muitas ONGs não conseguem fazer a prospecção de seu próprio projeto por não terem um acesso eficiente aos dados de suas instituições, de maneira que não conseguem realizar campanhas de arrecadação e propagandas com maior alcance e retorno. A ausência de ferramentas e plataformas baseadas em ciência de dados que facilitem essa visualização, limitam a capacidade estratégica dessas entidades.
+
+Além disso, a crescente demanda por transparência não é atendida por muitas dessas instituições, pela falta de recursos tecnológicos, haja vista que o mundo se torna cada vez mais online, e pela ausência de plataformas que facilitem a divulgação de suas atividades, o que resulta em desinteresse e desconfiança por parte dos doadores.
 
 > **Links Úteis**:
+>
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo central do presente trabalho é o desenvolvimento de uma plataforma web que solucione os problemas apresentados anteriormente, proporcionando a oportunidade de aumentar a eficiência operacional de nosso público alvo, através da ciência de dados e comunicação assertiva.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+Para isso, pontuamos:
+A implementação de técnicas de análise de dados para o mapeamento de perfis das instituições e de doadores, identificando padrões e tendências;
+O desenvolvimento de funcionalidades que facilitem a comunicação transparente entre as ONGs e os doadores, promovendo a confiança e o engajamento.;
+A melhora na gestão empresarial das organizações por meio de ferramentas que aumentem a eficiência nas operações e no uso dos recursos;
+O aumento da probabilidade de doações por intermédio do crescimento da visibilidade midiática.
+
 > **Links Úteis**:
+>
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
@@ -30,6 +43,7 @@ Descreva a importância ou a motivação para trabalhar com esta aplicação que
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
+>
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
@@ -40,6 +54,7 @@ hierárquicas, etc.
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
+>
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
