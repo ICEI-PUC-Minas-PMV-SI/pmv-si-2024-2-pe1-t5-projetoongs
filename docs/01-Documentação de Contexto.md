@@ -1,6 +1,12 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+[Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.]
+
+As Organizações Não Governamentais (ONGs) têm desempenhado um papel vital na resolução de problemas sociais, ambientais e humanitários em todo o mundo. No entanto, muitas dessas organizações enfrentam desafios significativos dado o cenário de seu surgimento na década de 50 até os dias de hoje com constantes mudanças sociais e sistêmicas. Com o passar dos anos, essas mudanças fizeram com que fosse exigido delas, além da capacidade política e de mobilização, competência de gestão para elaboração de projetos, captação de recursos e, sobretudo, para o gerenciamento das ações e a organização dos resultados para apresentá-los e comprová-los junto aos financiadores.
+
+No entanto, muitas dessas organizações enfrentam desafios significativos nesses âmbitos por encontrarem dificuldades ao se comunicar de forma assertiva com seu público, comunicando seus objetivos, valores e projetos com transparência. Além disso, a falta de profissionalização técnica com foco em gestão de qualidade,
+
+Diante desses desafios, este trabalho propõe o desenvolvimento de uma plataforma web integrada que não apenas otimiza a gestão por meio da análise de dados, mas também fortalece a transparência e a credibilidade das ONGs, ajudando-as a comunicar de forma clara e impactante seus propósitos, atividades e resultados. A plataforma será projetada para proporcionar às ONGs um gerenciamento mais eficiente de suas operações, estabelecendo uma relação de confiança duradoura com seus doadores e a sociedade.
 
 ## Problema
 
