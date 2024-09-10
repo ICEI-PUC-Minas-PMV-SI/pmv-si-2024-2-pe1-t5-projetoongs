@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO:` Sistemas de Informação
 
-`DISCIPLINA`
+`DISCIPLINA:` Projeto - Aplicações Web 
 
-`SEMESTRE`
+`SEMESTRE:` 1º Semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ester Messias
+* Ana Carolina Nunes
+* Lívia de Sousa
+* Kesley Pereira
+* Samuel Santos
+* Gabriel Vitor Borges
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alisson Rabelo Arantes
 
 ## Instruções de utilização
 
