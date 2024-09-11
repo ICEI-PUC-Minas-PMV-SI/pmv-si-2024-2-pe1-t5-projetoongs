@@ -9,11 +9,14 @@ Diante desses desafios, este trabalho propõe o desenvolvimento de uma plataform
 
 ## Problema
 
-Enquanto discutiamos acerca dos pontos que envolvem este projeto, definimos como problemas centrais a ineficiência na gestão administrativa [captação de recursos] e a falta de transparência nas operações das ONGs, fatores que prejudicam a sustentabilidade financeira e a credibilidade dessas organizações.
+Diante da transformação digital em curso, a ineficácia em se adaptar a novos padrões de gestão e transparência definidos ao longo dos anos, coloca as ONGs em uma posição de desvantagem. A incapacidade de incorporar ferramentas tecnológicas adequadas coloca em risco sua relevância no cenário social atual, onde organizações que não se adaptam ao digital podem ser excluídas de novas formas de participação e colaboração global.
 
-Muitas ONGs não conseguem fazer a prospecção de seu próprio projeto por não terem um acesso eficiente aos dados de suas instituições, de maneira que não conseguem realizar campanhas de arrecadação e propagandas com maior alcance e retorno. A ausência de ferramentas e plataformas baseadas em ciência de dados que facilitem essa visualização, limitam a capacidade estratégica dessas entidades.
+Muitas ONGs enfrentam grandes dificuldades para prospectar seus próprios projetos por não terem acesso eficiente aos dados de suas instituições. A falta de acesso a essas informações impede uma gestão estratégica, dificultando campanhas de arrecadação e limitações na publicidade que alcancem resultados expressivos. Essa deficiência, prejudica não apenas a sustentabilidade financeira, mas também compromete suas missões sociais e impacto nas comunidades que atendem.
 
-Além disso, a crescente demanda por transparência não é atendida por muitas dessas instituições, pela falta de recursos tecnológicos, haja vista que o mundo se torna cada vez mais online, e pela ausência de plataformas que facilitem a divulgação de suas atividades, o que resulta em desinteresse e desconfiança por parte dos doadores.
+Além disso, a crescente demanda por transparência, tanto por parte dos doadores quanto da sociedade em geral, não é atendida pela maioria dessas organizações, principalmente por falta de recursos tecnológicos. Isso não só afeta diretamente a arrecadação de fundos, mas também mina a confiança pública no trabalho das ONGs, resultando em uma perda de credibilidade.
+
+Os impactos dessa ineficiência na captação de recursos são ainda mais amplos. Ao não conseguirem angariar fundos de forma eficaz e sustentável, as ONGs tornam-se dependentes de doações pontuais e de curto prazo, o que compromete a execução de projetos de longo prazo, fundamentais para enfrentar problemas estruturais. Essa limitação financeira impede que as ONGs se planejem adequadamente, afeta diretamente a comunidade que depende desses serviços e retarda a implementação de soluções duradouras para os desafios sociais que essas entidades buscam resolver.
+
 
 
 ## Objetivos
