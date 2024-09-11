@@ -62,6 +62,7 @@ São as funcionalidades que o sistema deve ter para atender às necessidades do 
 | RF-006 | Facilitar a busca por oportunidades de voluntariado              | MÉDIA      |
 | RF-007 | Notificar os usuários sobre novas oportunidades de voluntariado  | BAIXA      |
 | RF-008 | Disponibilizar relatórios financeiros para doadores corporativos | MÉDIA      |
+| RF-009 | Permitir que os usuários compartilhem oportunidades nas redes sociais | BAIXA      |
 
 ### Requisitos Não Funcionais
 
@@ -75,6 +76,9 @@ São as características técnicas que o sistema deve ter para garantir qualidad
 | RNF-004 | O sistema deve suportar no mínimo 1.000 usuários simultâneos     | BAIXA      |
 | RNF-005 | A interface deve ser intuitiva e fácil de usar                   | ALTA       |
 | RNF-006 | O sistema deve estar disponível 99,9% do tempo                   | ALTA       |
+| RNF-007 | O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Edge)  | ALTA       |
+| RNF-008 | O consumo de recursos (CPU, memória) deve ser otimizado para não sobrecarregar | MEDIA       |
+
 
 ### Restrições
 
@@ -86,3 +90,4 @@ São limitações ou condições impostas ao projeto, que afetam o escopo, o des
 | 02  | Não será permitido o desenvolvimento de um módulo backend             |
 | 03  | O orçamento para marketing digital será limitado a R$ 5.000           |
 | 04  | O sistema deve ser implementado usando apenas tecnologias de frontend |
+| 04  |Todo o conteúdo deve estar disponível em português |
