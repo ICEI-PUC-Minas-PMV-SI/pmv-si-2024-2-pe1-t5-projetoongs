@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
@@ -13,6 +13,7 @@ Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se de
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
+>
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
@@ -20,20 +21,21 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
 >
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+> Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`                |
+| -------------------- | ---------------------------------- | -------------------------------------- |
+| Usuário do sistema   | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+| Administrador        | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
+>
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 > - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
@@ -44,48 +46,43 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
+Aqui está uma separação clara entre os requisitos funcionais, requisitos não funcionais e restrições para o seu projeto:
+
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+São as funcionalidades que o sistema deve ter para atender às necessidades do usuário.
 
+| ID     | Descrição do Requisito                                           | Prioridade |
+| ------ | ---------------------------------------------------------------- | ---------- |
+| RF-001 | Permitir que os usuários se cadastrem no sistema                 | ALTA       |
+| RF-002 | Permitir que os usuários façam login e logout                    | ALTA       |
+| RF-003 | Permitir que os usuários realizem doações                        | ALTA       |
+| RF-004 | Oferecer um painel de controle para gerenciar doações            | MÉDIA      |
+| RF-005 | Mostrar relatórios detalhados do impacto das doações             | ALTA       |
+| RF-006 | Facilitar a busca por oportunidades de voluntariado              | MÉDIA      |
+| RF-007 | Notificar os usuários sobre novas oportunidades de voluntariado  | BAIXA      |
+| RF-008 | Disponibilizar relatórios financeiros para doadores corporativos | MÉDIA      |
 
-### Requisitos não Funcionais
+### Requisitos Não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+São as características técnicas que o sistema deve ter para garantir qualidade, desempenho e usabilidade.
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+| ID      | Descrição do Requisito                                           | Prioridade |
+| ------- | ---------------------------------------------------------------- | ---------- |
+| RNF-001 | O sistema deve ser responsivo e funcionar em dispositivos móveis | ALTA       |
+| RNF-002 | A plataforma deve garantir a segurança dos dados dos usuários    | ALTA       |
+| RNF-003 | O tempo de resposta do sistema deve ser inferior a 3 segundos    | MÉDIA      |
+| RNF-004 | O sistema deve suportar no mínimo 1.000 usuários simultâneos     | BAIXA      |
+| RNF-005 | A interface deve ser intuitiva e fácil de usar                   | ALTA       |
+| RNF-006 | O sistema deve estar disponível 99,9% do tempo                   | ALTA       |
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+### Restrições
 
-## Restrições
+São limitações ou condições impostas ao projeto, que afetam o escopo, o desenvolvimento ou a entrega.
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| ID  | Restrição                                                             |
+| --- | --------------------------------------------------------------------- |
+| 01  | O projeto deverá ser entregue até o final do semestre                 |
+| 02  | Não será permitido o desenvolvimento de um módulo backend             |
+| 03  | O orçamento para marketing digital será limitado a R$ 5.000           |
+| 04  | O sistema deve ser implementado usando apenas tecnologias de frontend |
