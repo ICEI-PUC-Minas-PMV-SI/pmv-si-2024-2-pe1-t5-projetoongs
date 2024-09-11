@@ -1,27 +1,35 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+As Organizações Não Governamentais (ONGs) têm desempenhado um papel vital na resolução de problemas sociais, ambientais e humanitários em todo o mundo. No entanto, muitas dessas organizações enfrentam desafios significativos dado o cenário de seu surgimento na década de 50 até os dias de hoje com constantes mudanças sociais e sistêmicas. Com o passar dos anos, essas mudanças fizeram com que fosse exigido delas, além da capacidade política e de mobilização, competência de gestão para elaboração de projetos, captação de recursos e, sobretudo, para o gerenciamento das ações e a organização dos resultados para apresentá-los e comprová-los junto aos financiadores.
+
+No entanto, muitas dessas organizações enfrentam desafios significativos nesses âmbitos por encontrarem dificuldades ao se comunicar de forma assertiva com seu público, comunicando seus objetivos, valores e projetos com transparência. Além disso, a falta de profissionalização técnica com foco em gestão de qualidade,
+
+Diante desses desafios, este trabalho propõe o desenvolvimento de uma plataforma web integrada que não apenas otimiza a gestão por meio da análise de dados, mas também fortalece a transparência e a credibilidade das ONGs, ajudando-as a comunicar de forma clara e impactante seus propósitos, atividades e resultados. A plataforma será projetada para proporcionar às ONGs um gerenciamento mais eficiente de suas operações, estabelecendo uma relação de confiança duradoura com seus doadores e a sociedade.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Diante da transformação digital em curso, a ineficácia em se adaptar a novos padrões de gestão e transparência definidos ao longo dos anos, coloca as ONGs em uma posição de desvantagem. A incapacidade de incorporar ferramentas tecnológicas adequadas coloca em risco sua relevância no cenário social atual, onde organizações que não se adaptam ao digital podem ser excluídas de novas formas de participação e colaboração global.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Muitas ONGs enfrentam grandes dificuldades para prospectar seus próprios projetos por não terem acesso eficiente aos dados de suas instituições. A falta de acesso a essas informações impede uma gestão estratégica, dificultando campanhas de arrecadação e limitações na publicidade que alcancem resultados expressivos. Essa deficiência, prejudica não apenas a sustentabilidade financeira, mas também compromete suas missões sociais e impacto nas comunidades que atendem.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Além disso, a crescente demanda por transparência, tanto por parte dos doadores quanto da sociedade em geral, não é atendida pela maioria dessas organizações, principalmente por falta de recursos tecnológicos. Isso não só afeta diretamente a arrecadação de fundos, mas também mina a confiança pública no trabalho das ONGs, resultando em uma perda de credibilidade.
+
+Os impactos dessa ineficiência na captação de recursos são ainda mais amplos. Ao não conseguirem angariar fundos de forma eficaz e sustentável, as ONGs tornam-se dependentes de doações pontuais e de curto prazo, o que compromete a execução de projetos de longo prazo, fundamentais para enfrentar problemas estruturais. Essa limitação financeira impede que as ONGs se planejem adequadamente, afeta diretamente a comunidade que depende desses serviços e retarda a implementação de soluções duradouras para os desafios sociais que essas entidades buscam resolver.
+
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo central do presente trabalho é o desenvolvimento de uma plataforma web que solucione os problemas apresentados, proporcionando uma gestão mais eficiente e promovendo a comunicação transparente com os doadores. A plataforma, baseada em ciência de dados, identificará padrões e tendências entre os perfis de doadores e das ONGs, facilitando a captação de recursos e aumentando a visibilidade dessas instituições.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Nosso projeto considera também questões éticas relacionadas ao uso de dados, garantindo a privacidade e a segurança das informações tanto de doadores quanto das ONGs, e evitando qualquer tipo de discriminação no uso de algoritmos. Além disso, o aumento da eficiência operacional das ONGs trará impactos sociais positivos, permitindo que mais recursos sejam canalizados para suas ações, resultando em melhorias diretas nas comunidades assistidas.
+
+Para isso, pontuamos:
+- A implementação de técnicas de análise de dados para o mapeamento de perfis das instituições e de doadores, identificando padrões e tendências;
+- O desenvolvimento de funcionalidades que facilitem a comunicação transparente entre as ONGs e os doadores, promovendo a confiança e o engajamento.;
+- A melhora na gestão empresarial das organizações por meio de ferramentas que aumentem a eficiência nas operações e no uso dos recursos;
+- O aumento da visibilidade midiática das ONGs, incrementando suas chances de receber doações e apoio.
+
 
 ## Justificativa
 
@@ -32,6 +40,7 @@ Segundo a pesquisa desenvolvida pelo Mapa das OSCS em 2021, o Brasil possui mais
 Os objetivos escolhidos para este projeto foram definidos com base nas necessidades das ONGs em um cenário de mudanças e desafios. Por esse motivo, priorizamos o criação de ferramentas de para análise de dados, que ajudarão as instituições a tomar melhores decisões de forma estratégica e bem informada; captação de recursos, aumentando a visibilidade e o sucesso em campanhas de arrecadação; e gestão administrativa, para otimizar o uso dos recursos e enfatizar a transparência. Esses elementos são pontos chave para garantir a estabilidade financeira e credibilidade das ONGs, focando diretamente nas dificuldades identificadas nas pesquisas mencionadas.
 
 O desenvolvimento da plataforma visa responder a essas lacunas, oferecendo uma solução baseada em ciência de dados. Isso proporcionará às instituições a capacidade de tomar decisões mais informadas e de se comunicar de maneira mais eficaz com seus doadores. Ao melhorar a gestão e a visibilidade, a plataforma não só ajudará na captação de recursos, mas também promoverá uma relação de confiança mais sólida com a sociedade. A escolha de aprofundar-se em aspectos como análise de dados, captação de recursos e gestão de qualidade é motivada pela falta de acesso a dados estratégicos, a crescente demanda por transparência e a necessidade de profissionalização das instituições, garantindo sustentabilidade e credibilidade em um mundo cada vez mais competitivo e tecnológico.
+
 
 ## Público-Alvo
 
@@ -68,3 +77,4 @@ Nosso objetivo é atender as necessidades dos seguintes grupos:
 	-  Necessidade: Buscam uma plataforma que ofereça uma visão clara e detalhada do impacto de seus investimentos, com análises de desempenho e transparência que ajudem a avaliar o retorno social e o alinhamento com seus objetivos de investimento. Ferramentas que permitam monitorar e avaliar o progresso dos projetos e iniciativas são essenciais.
 
 A plataforma será projetada para atender às necessidades desses diferentes perfis, incluindo gestores e administradores, doadores, e investidores, fornecendo ferramentas que melhoram a gestão interna das instituições, facilitam a comunicação com doadores e investidores, e ampliam a transparência. Isso promoverá um impacto positivo na sustentabilidade e na confiança pública, atendendo aos objetivos específicos de cada grupo e garantindo uma abordagem integrada para todos os stakeholders envolvidos.
+
