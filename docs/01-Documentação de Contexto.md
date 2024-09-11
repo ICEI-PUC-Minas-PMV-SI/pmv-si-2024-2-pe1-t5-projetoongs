@@ -21,13 +21,15 @@ Os impactos dessa ineficiência na captação de recursos são ainda mais amplos
 
 ## Objetivos
 
-O objetivo central do presente trabalho é o desenvolvimento de uma plataforma web que solucione os problemas apresentados anteriormente, proporcionando a oportunidade de aumentar a eficiência operacional de nosso público alvo, através da ciência de dados e comunicação assertiva.
+O objetivo central do presente trabalho é o desenvolvimento de uma plataforma web que solucione os problemas apresentados, proporcionando uma gestão mais eficiente e promovendo a comunicação transparente com os doadores. A plataforma, baseada em ciência de dados, identificará padrões e tendências entre os perfis de doadores e das ONGs, facilitando a captação de recursos e aumentando a visibilidade dessas instituições.
+
+Nosso projeto considera também questões éticas relacionadas ao uso de dados, garantindo a privacidade e a segurança das informações tanto de doadores quanto das ONGs, e evitando qualquer tipo de discriminação no uso de algoritmos. Além disso, o aumento da eficiência operacional das ONGs trará impactos sociais positivos, permitindo que mais recursos sejam canalizados para suas ações, resultando em melhorias diretas nas comunidades assistidas.
 
 Para isso, pontuamos:
 - A implementação de técnicas de análise de dados para o mapeamento de perfis das instituições e de doadores, identificando padrões e tendências;
-- O desenvolvimento de funcionalidades que facilitem a comunicação transparente entre as ONGs e os doadores, promovendo a confiança e o engajamento;
+- O desenvolvimento de funcionalidades que facilitem a comunicação transparente entre as ONGs e os doadores, promovendo a confiança e o engajamento.;
 - A melhora na gestão empresarial das organizações por meio de ferramentas que aumentem a eficiência nas operações e no uso dos recursos;
-- O aumento da probabilidade de doações por intermédio do crescimento da visibilidade midiática.
+- O aumento da visibilidade midiática das ONGs, incrementando suas chances de receber doações e apoio.
 
 
 ## Justificativa
