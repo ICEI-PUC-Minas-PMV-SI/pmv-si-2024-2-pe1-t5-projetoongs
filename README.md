@@ -1,4 +1,4 @@
-# Desenvolvimento de Plataforma Digital Interativa Baseada em Ciência de Dados para ONGs.
+# Plataforma de Ciência de Dados para ONGs.
 
 `CURSO:` Sistemas de Informação
 
