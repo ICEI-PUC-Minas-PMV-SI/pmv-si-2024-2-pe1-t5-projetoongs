@@ -77,6 +77,7 @@ São as características técnicas que o sistema deve ter para garantir qualidad
 | RNF-004 | O sistema deve suportar no mínimo 1.000 usuários simultâneos     | BAIXA      |
 | RNF-005 | A interface deve ser intuitiva e fácil de usar                   | ALTA       |
 | RNF-006 | O sistema deve estar disponível 99,9% do tempo                   | ALTA       |
+| RNF-007 | Disponibilizar uma plataforma acessível (acessibilidade)         | ALTA       |
 
 ### Restrições
 
