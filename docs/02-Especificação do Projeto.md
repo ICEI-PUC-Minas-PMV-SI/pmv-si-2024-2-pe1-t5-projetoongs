@@ -56,12 +56,14 @@ São as funcionalidades que o sistema deve ter para atender às necessidades do 
 | ------ | ---------------------------------------------------------------- | ---------- |
 | RF-001 | Permitir que os usuários se cadastrem no sistema                 | ALTA       |
 | RF-002 | Permitir que os usuários façam login e logout                    | ALTA       |
-| RF-003 | Permitir que os usuários realizem doações                        | ALTA       |
-| RF-004 | Oferecer um painel de controle para gerenciar doações            | MÉDIA      |
-| RF-005 | Mostrar relatórios detalhados do impacto das doações             | ALTA       |
+| RF-003 | permitir que as organizações possam exportar relatórios semanais e mensais                        | ALTA       |
+| RF-004 | Desenvolver uma página onde as Instituições possam registrar suas atividades, métricas mensais e relatórios de retorno            | MÉDIA      |
+| RF-005 | Desenvolver uma página com conteúdos básicos sobre gestão e negócio             | ALTA       |
 | RF-006 | Facilitar a busca por oportunidades de voluntariado              | MÉDIA      |
 | RF-007 | Notificar os usuários sobre novas oportunidades de voluntariado  | BAIXA      |
-| RF-008 | Disponibilizar relatórios financeiros para doadores corporativos | MÉDIA      |
+| RF-008 | permitir que o usuário cadastre suas preferências de área de atuação das ONGs | MÉDIA      |
+| RF-009 | Desenvolver uma página com o dashboard de dados mensais e semanais          | ALTA      |
+| RF-010 | permitir que os usuários doadores possam visualizar as métricas e ficar a par dos resultados das ONGs | ALTA      |
 
 ### Requisitos Não Funcionais
 
