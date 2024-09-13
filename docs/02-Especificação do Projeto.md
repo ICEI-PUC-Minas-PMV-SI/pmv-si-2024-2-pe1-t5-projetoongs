@@ -87,7 +87,15 @@ São limitações ou condições impostas ao projeto, que afetam o escopo, o des
 | ID  | Restrição                                                             |
 | --- | --------------------------------------------------------------------- |
 | 01  | O projeto deverá ser entregue até o final do semestre                 |
-| 02  | Não será permitido o desenvolvimento de um módulo backend             |
-| 03  | O orçamento para marketing digital será limitado a R$ 5.000           |
-| 04  | O sistema deve ser implementado usando apenas tecnologias de frontend |
-| 04  |Todo o conteúdo deve estar disponível em português |
+| 02  | O sistema deve ser implementado usando apenas tecnologias de frontend |
+| 03  | Todo o conteúdo deve estar disponível em português |
+| 04  | A equipe de desenvolvimento é limitada a 6 membros |
+| 05  | Todas as imagens e vídeos usados devem ter licença de uso ou serem originais |
+| 06  | A qualidade das imagens e vídeos utilizados no site deve ser igual ou superior a HD (720p) |
+| 07  | O site não pode conter conteúdo sensível ou impróprio, como imagens violentas, ofensivas ou perturbadoras |
+| 08  | As cores utilizadas no site devem ser escolhidas levando em consideração a acessibilidade para pessoas com daltonismo, garantindo contraste adequado e alternativas visuais |
+
+
+
+
+
