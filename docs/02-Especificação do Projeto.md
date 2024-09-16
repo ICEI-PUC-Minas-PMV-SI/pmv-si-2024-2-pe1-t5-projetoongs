@@ -8,31 +8,71 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-- 1º Persona: Gerente de ONGs
+### 1º Persona: Gerente de ONGs
 
 Fatos:  
-Responsável pela administração geral e pela execução dos projetos da ONG.
-Precisa prestar contas de recursos e resultados para doadores e financiadores.
-Lida com várias tarefas operacionais e falta de recursos humanos capacitados.
+- Responsável pela administração geral e pela execução dos projetos da ONG;
+- Precisa prestar contas de recursos e resultados para doadores e financiadores;
+- Lida com várias tarefas operacionais e falta de recursos humanos capacitados.
 
-desconfortos:
-Dificuldade em organizar e centralizar as informações da ONG.
-Falta de ferramentas tecnológicas que facilitem a captação de recursos e gestão eficiente.
-Pressão para aumentar a transparência e demonstrar resultados concretos, mas sem ferramentas adequadas para isso.
+Desconfortos:
+- Dificuldade em organizar e centralizar as informações da ONG;
+- Falta de ferramentas tecnológicas que facilitem a captação de recursos e gestão eficiente;
+- Pressão para aumentar a transparência e demonstrar resultados concretos, mas sem ferramentas adequadas para isso.
 
-comportamento:
-Busca constantemente soluções que possam otimizar a gestão e melhorar a comunicação com doadores.
-Acessa várias plataformas de forma dispersa, o que gera perda de tempo e pouca integração.
-Está aberta à implementação de novas tecnologias, mas enfrenta resistência interna.
+Comportamento:
+- Busca constantemente soluções que possam otimizar a gestão e melhorar a comunicação com doadores;
+- Acessa várias plataformas de forma dispersa, o que gera perda de tempo e pouca integração;
+- Está aberta à implementação de novas tecnologias, mas enfrenta resistência interna.
 
-objetivos: 
-Melhorar a eficiência na gestão das operações da ONG.
-Centralizar todas as informações e resultados em uma plataforma intuitiva.
-Proporcionar maior visibilidade e confiabilidade para os doadores e financiadores.
+Objetivos: 
+- Melhorar a eficiência na gestão das operações da ONG;
+- Centralizar todas as informações e resultados em uma plataforma intuitiva;
+- Proporcionar maior visibilidade e confiabilidade para os doadores e financiadores.
 
+### 2º Persona: Doador
 
+Fatos: 
+- Interessado em contribuir para causas sociais, ambientais e humanitárias;
+- Gosta de saber como os recursos são aplicados e quais os impactos reais das doações;
+- Pode ser um doador recorrente ou pontual, mas valoriza transparência nas doações.
 
+Desconfortos:
+- Falta de clareza sobre como as ONGs utilizam os recursos doados;
+- Dificuldade em acompanhar o impacto real das doações;
+- Desconfiança devido à falta de transparência em algumas organizações.  
 
+Comportamento:
+- Tende a doar para organizações com as quais se identifica e que transmitem confiança;
+- Pesquisa e compara diferentes ONGs antes de tomar uma decisão de doação;
+- Deseja um canal claro de comunicação e um retorno sobre o impacto de suas contribuições.
+
+Objetivos:
+- Contribuir para causas alinhadas com seus valores e acompanhar o impacto gerado;
+- Sentir-se seguro de que sua doação está sendo bem utilizada e aplicada em projetos significativos;
+- Estabelecer uma relação de confiança e transparência com a ONG.
+
+### 3º Persona: CEO 
+
+Fatos: 
+- Responsável pela estratégia geral e pelo crescimento da ONG;
+- Enfrenta desafios de captação de recursos e gestão de equipe;
+- Precisa equilibrar o propósito social com a visibilidade financeira e a sustentabilidade da organização.
+  
+Desconfortos:
+- Dificuldade em atrair e reter doadores por falta de visibilidade e ferramentas adequadas;
+- Preocupação com a falta de transparência de outras ONGs e como a sua pode ser diferente neste sentido;
+- Falta de controle e análise de dados, o que impacta a tomada de decisões mais estratégicas e organização.
+  
+Comportamento:
+- Procura sempre oportunidades para otimizar a gestão e melhorar a captação de recursos;
+- Toma decisões baseadas em dados, mas tem pouca visibilidade de informações relevantes;
+- Preocupado com a reputação da ONG e como é vista pela sociedade e pelos doadores.
+
+Objetivos:
+- Aumentar a captação de recursos por meio de uma comunicação clara e eficiente com doadores;
+- Implementar tecnologias que otimizem a operação e a transparência da ONG;
+- Garantir a sustentabilidade financeira da organização e seu impacto positivo na sociedade.
 
 
 ## Histórias de Usuários
@@ -41,7 +81,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 | EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`                |
 | -------------------- | ---------------------------------- | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+| Gerente administrativo   | De uma página de gerenciamento com interface intuitiva para atualizar e analisar dados e resultados.          | Melhorar a eficiencia e garantir que informações estejam acessíveis aos doadores e financiadores, criando confiança.                 |
 | Administrador        | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
